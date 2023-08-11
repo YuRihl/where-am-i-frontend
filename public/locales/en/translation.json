@@ -1,0 +1,59 @@
+{
+  "header": {
+    "home": "Home",
+    "ratings": "Ratings",
+    "signup": "Sign Up",
+    "signin": "Sign In",
+    "logout": "Logout"
+  },
+  "signup": {
+    "name": "Sign Up",
+    "username": "Username",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "submitName": "Sign Up",
+    "googleSubmitName": "Sign Up with Google",
+    "signinName": "Sign In"
+  },
+  "signin": {
+    "name": "Sign In",
+    "emailOrUsername": "Email or Username",
+    "password": "Password",
+    "rememberMe": "Remember Me",
+    "submitName": "Sign In",
+    "googleSubmitName": "Sign In with Google",
+    "forgotPassword": "Forgot Password?",
+    "signupName": "Don`t have any account? Sign Up then!",
+    "response": {
+      "success": "User signed in successfully",
+      "error": "Some error occured"
+    }
+  },
+  "home": {
+    "welcome": "Welcome to 'Where am I?' game!",
+    "play": "Play",
+    "description": "Where am I? is an exciting game in which you have to guess the location\nby looking at panoramic images. The goal of the game is to\nguess the location where the panorama is located: whoever guesses closer to the\nto the actual location, wins",
+    "firstFeature": "Explore different parts of the world and discover new places",
+    "secondFeature": "Use your logical thinking and knowledge of the locations to win",
+    "thirdFeature": "Compete with friends or coworkers or improve your game performance in a singleplayer"
+  },
+  "game": {
+    "singleplayerButton": "Singleplayer",
+    "multiplayerButton": "Multiplayer",
+    "plainMap": {
+      "guessButton": "Guess"
+    },
+    "pointsModal": {
+      "name": "Your number of points: ",
+      "back": "Back to home menu"
+    }
+  },
+  "ratings": {
+    "username": "Username",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "summaryPoints": "Points for all time"
+  }
+}
